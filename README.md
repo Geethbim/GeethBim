@@ -1,6 +1,6 @@
 ![Nimal Siripala Banner](https://via.placeholder.com/1200x300.png?text=Nimal+Siripala+GitHub+Banner)
 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Nimal Siripala</h2>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Geeth Liyanage.</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
