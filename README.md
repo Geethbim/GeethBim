@@ -10,7 +10,7 @@
 🌱 &nbsp;Currently learning **Deep Learning, AI/ML, DevOps, Kubernetes, and Cloud Automation**.  
 💬 &nbsp;Open for collaborations, projects, or technical discussions!  
 ✉️ &nbsp;Contact me anytime at: **geethbimsaraliyanage@gmail.com**  
-📄 &nbsp;My résumé: *(Add your link here)*  
+📄 &nbsp;My resume: *https://drive.google.com/drive/folders/17vKKVPonsCGyJq7nyOAKz7nDPgw4ypoS?usp=sharing*  
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
