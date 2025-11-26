@@ -1,4 +1,4 @@
-![Nimal Siripala Banner](https://via.placeholder.com/1200x300.png?text=Nimal+Siripala+GitHub+Banner)
+![Geeth Liyanage Banner](https://via.placeholder.com/1200x300.png?text=Nimal+Siripala+GitHub+Banner)
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Geeth Liyanage.</h2>
 
@@ -90,5 +90,5 @@
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:geethbimsaraliyanage@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
